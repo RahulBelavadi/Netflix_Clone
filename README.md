@@ -6,7 +6,14 @@
 
 A fully responsive **Netflix Clone** built using **HTML**, **CSS**, and **JavaScript**. This project replicates the core frontend interface of Netflix, including the homepage, navigation, and video thumbnails with hover effects.
 
-![Netflix Clone Screenshot](public)
+## 🖼️ Screenshots
+
+| Feature/Page     | Screenshot |
+|------------------|------------|
+| Home Page        | ![Home](public/Home.png) |
+| Card Section     | ![Card](public/Card.png) |
+| Footer Section   | ![Footer](public/Footer.png) |
+
 
 ---
 
